@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Wpf_Yshakow_PR4"
         mc:Ignorable="d"
-        Title="Window3" Height="450" Width="800">
+        Title="Примеры 3 задания" Height="450" Width="800">
     <Grid>
         <Button Content="A" HorizontalAlignment="Left" Margin="31,24,0,0" VerticalAlignment="Top" Height="45" Width="89" Click="Button_Click"/>
         <Button Content="Б" HorizontalAlignment="Left" Margin="141,24,0,0" VerticalAlignment="Top" Height="45" Width="89" Click="Button_Click_1"/>
