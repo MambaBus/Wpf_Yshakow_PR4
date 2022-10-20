@@ -10,63 +10,48 @@ using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
 using System.Windows.Shapes;
 
 namespace Wpf_Yshakow_PR4
 {
     /// <summary>
-    /// Логика взаимодействия для MainWindow.xaml
+    /// Логика взаимодействия для Window8.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class Window8 : Window
     {
-        public MainWindow()
+        public Window8()
         {
             InitializeComponent();
         }
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            Window1 window1 = new Window1();
-            window1.Show();
+            Window9 window9 = new Window9();
+            window9.Show();
         }
 
         private void Button_Click_1(object sender, RoutedEventArgs e)
         {
-            Window2 window2 = new Window2();
-            window2.Show();
+            Window10 window10 = new Window10();
+            window10.Show();
         }
 
         private void Button_Click_2(object sender, RoutedEventArgs e)
         {
-            Window3 window3 = new Window3();
-            window3.Show();
+            Window11 window11 = new Window11();
+            window11.Show();
         }
 
         private void Button_Click_3(object sender, RoutedEventArgs e)
         {
-            Window8 window8 = new Window8();
-            window8.Show();
+            Window12 window12 = new Window12();
+            window12.Show();
         }
 
         private void Button_Click_4(object sender, RoutedEventArgs e)
         {
-
-        }
-
-        private void Button_Click_5(object sender, RoutedEventArgs e)
-        {
-
-        }
-
-        private void Button_Click_6(object sender, RoutedEventArgs e)
-        {
-
-        }
-
-        private void Button_Click_7(object sender, RoutedEventArgs e)
-        {
-
+            Window13 window13 = new Window13();
+            window13.Show();
         }
     }
 }

@@ -8,9 +8,14 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <Button Content="Пример 1" HorizontalAlignment="Left" Margin="25,19,0,0" VerticalAlignment="Top" Height="35" Width="70" Click="Button_Click"/>
-        <Button Content="Пример 2" HorizontalAlignment="Left" Margin="110,19,0,0" VerticalAlignment="Top" Height="35" Width="70" Click="Button_Click_1"/>
-        <Button Content="Пример 3" HorizontalAlignment="Left" Margin="195,19,0,0" VerticalAlignment="Top" Height="35" Width="70" Click="Button_Click_2"/>
-       
+        <Button Content="Пример 2" HorizontalAlignment="Left" Margin="100,19,0,0" VerticalAlignment="Top" Height="35" Width="70" Click="Button_Click_1"/>
+        <Button Content="Пример 3" HorizontalAlignment="Left" Margin="175,19,0,0" VerticalAlignment="Top" Height="35" Width="70" Click="Button_Click_2"/>
+        <Button Content="Пример 4" HorizontalAlignment="Left" Margin="250,19,0,0" VerticalAlignment="Top" Height="35" Width="70" Click="Button_Click_3"/>
+        <Button Content="Пример 5" HorizontalAlignment="Left" Margin="325,19,0,0" VerticalAlignment="Top" Height="35" Width="70" Click="Button_Click_4"/>
+        <Button Content="Пример 6" HorizontalAlignment="Left" Margin="400,19,0,0" VerticalAlignment="Top" Height="35" Width="70" Click="Button_Click_5"/>
+        <Button Content="Пример 7" HorizontalAlignment="Left" Margin="475,19,0,0" VerticalAlignment="Top" Height="35" Width="70" Click="Button_Click_6"/>
+        <Button Content="Пример 8" HorizontalAlignment="Left" Margin="550,19,0,0" VerticalAlignment="Top" Height="35" Width="70" Click="Button_Click_7"/>
+
 
     </Grid>
 </Window>
